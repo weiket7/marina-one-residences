@@ -1,1 +1,1 @@
-![alt text](marine-one-launch.png)
+![alt text](marina-one-launch.png)
